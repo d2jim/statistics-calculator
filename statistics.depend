@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1590680802 source:c:\users\david\onedrive\desktop\coding\playground\exampleprojects\statistics\main.c
+	<stdio.h>
+	<stdlib.h>
+	"frequencytable.c"
+	"averagesandvariance.c"
+
+1590681163 c:\users\david\onedrive\desktop\coding\playground\exampleprojects\statistics\frequencytable.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1590952179 c:\users\david\onedrive\desktop\coding\playground\exampleprojects\statistics\averagesandvariance.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
